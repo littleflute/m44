@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Early Morning Light.mp3";		
+f[2]	= "02 Green Lights.mp3";		
+f[3]	= "03 House of Mercy.mp3";		
+f[4]	= "04 Everything to Hide.mp3";		
+f[5]	= "05 Back of My Mind.mp3";		
+f[6]	= "06 Comin' Undone.mp3";		
+f[7]	= "07 Take Another Turn.mp3";		
+f[8]	= "08 Lost Dog.mp3";		
+f[9]	= "09 Take Me Back.mp3";		
+f[10]	= "10 Still Life.mp3";		
+f[11]	= "Jacqueline.mp3";		

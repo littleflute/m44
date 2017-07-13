@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "02 The Party Song.mp3";		
+f[2]	= "03 Baby Sinister.mp3";		
+f[3]	= "04 Stellar Fungk.mp3";		
+f[4]	= "05 Just a Touch of Love.mp3";		
+f[5]	= "06 Are You Ready for Love-.mp3";		
+f[6]	= "07 Foxy Lady (Funky Lady).mp3";		
+f[7]	= "08 Thank You.mp3";		
+f[8]	= "09 Everybody Slide.mp3";		
+f[9]	= "10 Sizzlin' Hot.mp3";		
+f[10]	= "11 Watching You.mp3";		
+f[11]	= "12 Stone Jam.mp3";		
+f[12]	= "13 Starting Over.mp3";		
+f[13]	= "14 Son of Slide.mp3";		
+f[14]	= "15 Just a Touch of Love [Instrumental][Version].mp3";		
+f[15]	= "Slide.mp3";		

@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Plastic 100°„C.mp3";		
+f[2]	= "02 Blood on Me.mp3";		
+f[3]	= "03 Kora Sings.mp3";		
+f[4]	= "04 (No One Knows Me) Like the Piano.mp3";		
+f[5]	= "05 Take Me Inside.mp3";		
+f[6]	= "06 Reverse Faults.mp3";		
+f[7]	= "08 Timmy's Prayer.mp3";		
+f[8]	= "09 Incomplete Kisses.mp3";		
+f[9]	= "10 What Shouldn't I Be-.mp3";		
+f[10]	= "Under.mp3";		

@@ -1,6 +1,6 @@
 var f = [];				
 f[0]	= "v0.0.9";			
-f[1]	= "01 Plastic 100°„C.mp3";		
+f[1]	= "01 Plastic 100 C.mp3";		
 f[2]	= "02 Blood on Me.mp3";		
 f[3]	= "03 Kora Sings.mp3";		
 f[4]	= "04 (No One Knows Me) Like the Piano.mp3";		
